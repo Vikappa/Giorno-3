@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    margin: 0;
+    color: rgb(54, 54, 54);
+}
+
+main h1 {
+    text-align: center;
+}
+
+#boldspan {
+    font-weight: 900;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body p,
+ul,
+#method {
+    font-size: 1, 5em;
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+}
+
+a {
+    color: #107777;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 1vh;
+    margin-bottom: 2vh;
+    text-align: center;
+}
+
+header img {
+    width: 15em;
+}
+
+#section {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    background-color: #fdfbf1;
+    height: 4vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 2px solid #ffd877;
+    color: #004d4c;
+}
+
+#featuredIn {
+    padding-left: 1vw;
+    border-left: 2px solid #ffd877;
+}
+
+main {
+    width: 60vw;
+    margin: auto;
+}
+
+main img {
+    width: 100%;
+    border-radius: 25px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+    margin: 2vh 0 2vh 0;
+}
+
+main p {
+    margin: 0;
+}
+
+main h4 {
+    Color: #f7661e;
+    margin-bottom: 0;
+}
+
+#imageby {
+    display: flex;
+    justify-content: center;
+    color: lightgray;
+}
+
+.capt {
+    font-weight: 800;
+    font-size: 1.2em;
+}
+
+article {
+    width: 60vw;
+    margin: auto;
+}
+
+article h3 {
+    font-size: 1.5em;
+    padding: 4vh 0 2vh 0;
+    border-bottom: 1px solid #b7e3e2;
+}
+
+article footer {
+    width: 60vw;
+    margin: auto;
+}
+
+#method {
+    font-weight: 800;
+
+}
+
+footer {
+    width: 60vw;
+    margin: auto;
+}
